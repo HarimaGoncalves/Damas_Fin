@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="36" tokens="211">
+      <file column="64" endcolumn="15" endline="146" line="111"
+            path="C:\Users\harim\Damas\src\main\java\damas\Tabuleiro.java"/>
+      <file column="64" endcolumn="15" endline="190" line="155"
+            path="C:\Users\harim\Damas\src\main\java\damas\Tabuleiro.java"/>
+      <codefragment><![CDATA[/* 111 */       movimentos.addElement(new Par(x + jogador, y + 1));
+/* 112 */       Vector<Par> mov = new Vector<Par>();
+/* 113 */       mov = (Vector<Par>)movimentos.clone();
+/* 114 */       lista_jogadas.movimentos.addElement(mov);
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */       
+/* 119 */       if (jogador == 1 && x + jogador == 6) {
+/*     */         
+/* 121 */         if (y + 1 < 8 && t1.matriz[7][y + 1] == 0) {
+/* 122 */           fl = 1;
+/*     */         }
+/* 124 */         if (y + 1 >= 0 && t1.matriz[7][y - 1] == 0) {
+/* 125 */           fl = 1;
+/*     */         }
+/* 127 */       } else if (jogador == 1 && x + jogador == 0) {
+/*     */         
+/* 129 */         if (y + 1 < 8 && t1.matriz[0][y + 1] == 0) {
+/* 130 */           fl = 1;
+/*     */         }
+/* 132 */         if (y + 1 >= 0 && t1.matriz[0][y - 1] == 0) {
+/* 133 */           fl = 1;
+/*     */         }
+/*     */       } 
+/*     */       
+/* 137 */       if (fl == 1) {
+/*     */         
+/* 139 */         lista_jogadas.instavel.addElement(Boolean.TRUE);
+/*     */       }
+/*     */       else {
+/*     */         
+/* 143 */         lista_jogadas.instavel.addElement(Boolean.FALSE);
+/*     */       } 
+/* 145 */       movimentos.removeAllElements();
+/*     */     } ]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="163">
+      <file column="15" endcolumn="13" endline="410" line="391"
+            path="C:\Users\harim\Damas\src\main\java\damas\Interface_tabuleiro.java"/>
+      <file column="15" endcolumn="13" endline="462" line="443"
+            path="C:\Users\harim\Damas\src\main\java\damas\Interface_tabuleiro.java"/>
+      <codefragment><![CDATA[/* 443 */     if (cor == 0) {
+/* 444 */       g2d.setColor(Color.white);
+/*     */     } else {
+/* 446 */       g2d.setColor(Color.black);
+/*     */     } 
+/* 448 */     g2d.fillOval(x * m + m / 2 - pe1x / 2, y * m + m / 2 - pe1y / 2, pe1x, 
+/* 449 */         pe1y);
+/*     */     
+/* 451 */     if (cor == 0) {
+/* 452 */       g2d.setColor(Color.black);
+/*     */     } else {
+/* 454 */       g2d.setColor(Color.white);
+/*     */     } 
+/*     */     
+/* 457 */     g2d.drawArc(x * m + m / 2 - pe1x / 2, y * m + m / 2 - pe1y / 2, pe1x, 
+/* 458 */         pe1y, 0, -180);
+/*     */     
+/* 460 */     g2d.drawArc(x * m + m / 2 - pe1x / 2, y * m + m / 2 - pe1y / 2 + 1, 
+/* 461 */         pe1x, pe1y, 0, -180);
+/*     */   }]]></codefragment>
+   </duplication>
+   <duplication lines="43" tokens="132">
+      <file column="15" endcolumn="23" endline="354" line="312"
+            path="C:\Users\harim\Damas\src\main\java\damas\Tabuleiro.java"/>
+      <file column="15" endcolumn="23" endline="533" line="493"
+            path="C:\Users\harim\Damas\src\main\java\damas\Tabuleiro.java"/>
+      <codefragment><![CDATA[/*     */     } 
+/*     */     
+/* 314 */     if (moveu) {
+/*     */       return;
+/*     */     }
+/* 317 */     if (score == 0) {
+/*     */       return;
+/*     */     }
+/* 320 */     if (score < best_score.valor) {
+/*     */       return;
+/*     */     }
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */     
+/* 327 */     movimentos.addElement(new Par(x, y));
+/*     */     
+/* 329 */     if (score > best_score.valor) {
+/*     */       
+/* 331 */       best_score.valor = score;
+/* 332 */       lista_jogadas.movimentos.removeAllElements();
+/* 333 */       lista_jogadas.instavel.removeAllElements();
+/*     */     } 
+/*     */ 
+/*     */     
+/* 337 */     Vector<Par> mov = new Vector<Par>();
+/* 338 */     mov = (Vector<Par>)movimentos.clone();
+/* 339 */     lista_jogadas.movimentos.addElement(mov);
+/*     */ 
+/*     */     
+/* 342 */     lista_jogadas.instavel.addElement(Boolean.TRUE);
+/* 343 */     int nelem = movimentos.size() - 1;
+/* 344 */     movimentos.removeElementAt(nelem);
+/*     */   }
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */   
+/*     */   public void explora_jogada_dama_comendo(int proibido, int x, int y, Tabuleiro t1, Vector<Par> movimentos, Lista_jogadas lista_jogadas, Score best_score, int score) {]]></codefragment>
+   </duplication>
+</pmd-cpd>
