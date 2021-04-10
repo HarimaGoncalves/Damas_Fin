@@ -1,0 +1,241 @@
+
+8damas.Interface_tabuleiro#mouseDown(Ljava/awt/Event;II)Zf
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java] ]($"17"18"20"22*ﬁ
+14f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaw w("p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaw w(
+""*°
+16f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javai i("¿Ω
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javak k(
+
+%3void"java.awt.Component#repaint()V*
+damas.Interface_tabuleiro2	repaint()"p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javam m(
+""*©
+17f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javag g(º
+π
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javag g("
+%0damas.Lista_jogadas"__id*.*,
+damas.Interface_tabuleiro"
+admissiveis∂
+≥
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javag g(-
+%1java.util.Vector"__id*+*)
+
+%0damas.Lista_jogadas"
+
+movimentos≤Ø
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javag g(4	
+%2int"java.util.Vector#size()I*
+
+%1java.util.Vector2size()*
+14
+16
+8
+9*ﬁ
+18f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javae e("p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javae e(
+""*Ï
+1h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaó ó(√¿
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaô ô(
+%21void"java.awt.Component#repaint()V*
+damas.Interface_tabuleiro2	repaint()∫
+∑
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaõ õ(
+%22damas.Tabuleiro"__id*-*+
+damas.Interface_tabuleiro"
+
+tab_visual≥
+∞
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaõ$ õ(,
+%23damas.Tabuleiro"__id*&*$
+damas.Interface_tabuleiro"
+tabÛ
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaõ õ(-
+%24void")damas.Tabuleiro#copia(Ldamas/Tabuleiro;)V*
+
+%22damas.Tabuleiro*
+
+%23damas.Tabuleiro2copia(Ldamas/Tabuleiro;)ø
+º
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaù ù(!
+%25java.util.Vector"__id*1*/
+damas.Interface_tabuleiro"
+escolha_jogada—Œ
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaù ù(5
+%26void"%java.util.Vector#removeAllElements()V*
+
+%25java.util.Vector2removeAllElements()√¿
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java£ £(
+%27void"java.awt.Component#repaint()V*
+damas.Interface_tabuleiro2	repaint()"r
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java• •(
+""*ß
+2h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaì ì(√¿
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaì ì(
+%20void"java.awt.Component#repaint()V*
+damas.Interface_tabuleiro2	repaint()"r
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaî î(
+""*Ω
+4h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaá  á(!ø
+º
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaâ â(#
+%17java.util.Vector"__id*1*/
+damas.Interface_tabuleiro"
+escolha_jogada—Œ
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaâ â(7
+%18void"%java.util.Vector#removeAllElements()V*
+
+%17java.util.Vector2removeAllElements()√¿
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaä ä(
+%19void"java.awt.Component#repaint()V*
+damas.Interface_tabuleiro2	repaint()"r
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaã ã(
+""*¶
+5f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java (º
+π
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java (!
+%7java.util.Vector"__id*1*/
+damas.Interface_tabuleiro"
+escolha_jogadaáÑ
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java1 (4
+%8	damas.Par"	damas.Par´
+®
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java- (<
+%9"damas.Par#<init>(II)V*
+
+%8	damas.Par*
+""*
+""˜Ù
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java (=
+%10void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%7java.util.Vector*
+
+%8	damas.Par2addElement(Ljava/lang/Object;)≥
+∞
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaÇ Ç(
+%11damas.Tabuleiro"__id*&*$
+damas.Interface_tabuleiro"
+tab∫
+∑
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaÇ Ç(,
+%12damas.Tabuleiro"__id*-*+
+damas.Interface_tabuleiro"
+
+tab_visualÛ
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaÇ Ç(-
+%13void")damas.Tabuleiro#copia(Ldamas/Tabuleiro;)V*
+
+%11damas.Tabuleiro*
+
+%12damas.Tabuleiro2copia(Ldamas/Tabuleiro;)ø
+º
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaÑ* Ñ(=
+%14java.util.Vector"__id*1*/
+damas.Interface_tabuleiro"
+escolha_jogada∫
+∑
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaÑ? Ñ(N
+%15damas.Tabuleiro"__id*-*+
+damas.Interface_tabuleiro"
+
+tab_visual‘—
+h
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaÑ Ñ(O
+
+%16int"Odamas.Interface_tabuleiro#verifica_jogada(Ljava/util/Vector;Ldamas/Tabuleiro;)I*
+damas.Interface_tabuleiro*
+
+%14java.util.Vector*
+
+%15damas.Tabuleiro24verifica_jogada(Ljava/util/Vector;Ldamas/Tabuleiro;)*	
+2
+4
+1*›
+6f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java} }("p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java} }(
+""*¶
+7f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java|5 |(9∞
+≠
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java|5 |(=
+%6damas.Tabuleiro"__id*&*$
+damas.Interface_tabuleiro"
+tab*
+5
+6*Á
+8f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java| |(º
+π
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java| |(%
+%4java.util.Vector"__id*1*/
+damas.Interface_tabuleiro"
+escolha_jogada≤Ø
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java| |(,	
+%5int"java.util.Vector#size()I*
+
+%4java.util.Vector2size()*
+5
+7*›
+9f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaz z("p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javaz z(
+""*ﬁ
+20f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javab b("p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.javab b(
+""*ﬁ
+22f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java_ _("p
+f
+\C:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Interface_tabuleiro.java_ _(
+"":
+evtjava.awt.Event:
+"":
+""B
+damas.Interface_tabuleiro

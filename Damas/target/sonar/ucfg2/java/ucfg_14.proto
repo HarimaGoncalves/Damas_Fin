@@ -1,0 +1,336 @@
+
+wdamas.Tabuleiro#explora_jogada_peca_movendo(IIILdamas/Tabuleiro;Ljava/util/Vector;Ldamas/Lista_jogadas;Ldamas/Score;I)V\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javah h(3"42*≠
+2^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaª ª(∏
+µ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaª ª((
+%36java.util.Vector"__id*4*2
+$
+lista_jogadasdamas.Lista_jogadas"
+
+instavelã
+à
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaª4 ª(A
+%37java.lang.Boolean"__id*
+""˘ˆ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaª ª(B
+%38void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%36java.util.Vector*
+
+%37java.lang.Boolean2addElement(Ljava/lang/Object;)*
+1*Ø
+24^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaã ã(∏
+µ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaã ã((
+%13java.util.Vector"__id*4*2
+$
+lista_jogadasdamas.Lista_jogadas"
+
+instavelã
+à
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaã4 ã(@
+%14java.lang.Boolean"__id*
+""˘ˆ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaã ã(A
+%15void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%13java.util.Vector*
+
+%14java.lang.Boolean2addElement(Ljava/lang/Object;)*
+22*≠
+3^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java∑ ∑(∏
+µ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java∑ ∑((
+%33java.util.Vector"__id*4*2
+$
+lista_jogadasdamas.Lista_jogadas"
+
+instavelã
+à
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java∑4 ∑(@
+%34java.lang.Boolean"__id*
+""˘ˆ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java∑ ∑(A
+%35void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%33java.util.Vector*
+
+%34java.lang.Boolean2addElement(Ljava/lang/Object;)*
+1*›
+41\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javam m(À»
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javam m(.
+
+%1void"%java.util.Vector#removeAllElements()V* 
+
+
+movimentosjava.util.Vector2removeAllElements()|z
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javan* n(-
+%2	damas.Par"	damas.Par°
+û
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javan& n(3
+%3"damas.Par#<init>(II)V*
+
+%2	damas.Par*
+""*
+""ÙÒ
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javan n(4
+
+%4void"0java.util.Vector#addElement(Ljava/lang/Object;)V* 
+
+
+movimentosjava.util.Vector*
+
+%2	damas.Par2addElement(Ljava/lang/Object;)|z
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javao* o(-
+%5	damas.Par"	damas.Par°
+û
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javao& o(A
+%6"damas.Par#<init>(II)V*
+
+%5	damas.Par*
+""*
+""ÙÒ
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javao o(B
+
+%7void"0java.util.Vector#addElement(Ljava/lang/Object;)V* 
+
+
+movimentosjava.util.Vector*
+
+%5	damas.Par2addElement(Ljava/lang/Object;)ãà
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javap& p(1
+%8java.util.Vector"java.util.Vectorù
+ö
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javap" p(3
+%9"java.util.Vector#<init>()V*
+
+%8java.util.Vectorö
+ó
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javap p(4
+movjava.util.Vector"__id*
+
+%8java.util.Vector—Œ
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaq# q(5
+%10java.lang.Object"*java.util.Vector#clone()Ljava/lang/Object;* 
+
+
+movimentosjava.util.Vector2clone()õ
+ò
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaq q(5
+movjava.util.Vector"__id*
+
+%10java.lang.Object∏
+µ
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javar r((
+%11java.util.Vector"__id*6*4
+$
+lista_jogadasdamas.Lista_jogadas"
+
+movimentosˆÛ
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javar r(8
+%12void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%11java.util.Vector*
+
+movjava.util.Vector2addElement(Ljava/lang/Object;)*
+24
+23*¯
+42\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javai i(âÜ
+\
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javak k((
+%0boolean".damas.Tabuleiro#p_move(IIIILdamas/Tabuleiro;)Z*
+damas.Tabuleiro*
+""*
+""*2*2*
+
+t1damas.Tabuleiro2p_move(IIIILdamas/Tabuleiro;)*
+41
+21*à
+20^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaô ô(ŒÀ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaô ô(.
+%21void"%java.util.Vector#removeAllElements()V* 
+
+
+movimentosjava.util.Vector2removeAllElements()}
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaö* ö(-
+%22	damas.Par"	damas.Par•
+¢
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaö& ö(3
+%23"damas.Par#<init>(II)V*
+
+%22	damas.Par*
+""*
+""¯ı
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaö ö(4
+%24void"0java.util.Vector#addElement(Ljava/lang/Object;)V* 
+
+
+movimentosjava.util.Vector*
+
+%22	damas.Par2addElement(Ljava/lang/Object;)}
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaõ* õ(-
+%25	damas.Par"	damas.Par•
+¢
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaõ& õ(A
+%26"damas.Par#<init>(II)V*
+
+%25	damas.Par*
+""*
+""¯ı
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaõ õ(B
+%27void"0java.util.Vector#addElement(Ljava/lang/Object;)V* 
+
+
+movimentosjava.util.Vector*
+
+%25	damas.Par2addElement(Ljava/lang/Object;)éã
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaú& ú(1
+%28java.util.Vector"java.util.Vector°
+û
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaú" ú(3
+%29"java.util.Vector#<init>()V*
+
+%28java.util.Vectorù
+ö
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaú ú(4
+movjava.util.Vector"__id*
+
+%28java.util.Vector”–
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaù# ù(5
+%30java.lang.Object"*java.util.Vector#clone()Ljava/lang/Object;* 
+
+
+movimentosjava.util.Vector2clone()ù
+ö
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaù ù(5
+movjava.util.Vector"__id*
+
+%30java.lang.Object∫
+∑
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaû û((
+%31java.util.Vector"__id*6*4
+$
+lista_jogadasdamas.Lista_jogadas"
+
+movimentos¯ı
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaû û(8
+%32void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%31java.util.Vector*
+
+movjava.util.Vector2addElement(Ljava/lang/Object;)*
+2
+3*˛
+21^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaï ï(éã
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaó ó()
+%20boolean".damas.Tabuleiro#p_move(IIIILdamas/Tabuleiro;)Z*
+damas.Tabuleiro*
+""*
+""*2*
+""*
+
+t1damas.Tabuleiro2p_move(IIIILdamas/Tabuleiro;)*
+20
+0*|
+0 "u
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaø ø(
+implicit return*ª
+22^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaë ë(ŒÀ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaë ë(.
+%19void"%java.util.Vector#removeAllElements()V* 
+
+
+movimentosjava.util.Vector2removeAllElements()*
+21*π
+1^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaΩ Ω(ŒÀ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaΩ Ω(.
+%39void"%java.util.Vector#removeAllElements()V* 
+
+
+movimentosjava.util.Vector2removeAllElements()*
+0*Ø
+23^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaè è(∏
+µ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaè è((
+%16java.util.Vector"__id*4*2
+$
+lista_jogadasdamas.Lista_jogadas"
+
+instavelã
+à
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaè4 è(A
+%17java.lang.Boolean"__id*
+""˘ˆ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaè è(B
+%18void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%16java.util.Vector*
+
+%17java.lang.Boolean2addElement(Ljava/lang/Object;)*
+22:
+"":
+"":
+"":
+t1damas.Tabuleiro:
+
+movimentosjava.util.Vector:$
+lista_jogadasdamas.Lista_jogadas:
+
+best_scoredamas.Score:
+""B
+damas.Tabuleiro

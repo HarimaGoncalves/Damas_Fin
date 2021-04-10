@@ -181,4 +181,10 @@
         </plugins>
     </reporting>
 
+<properties>
+  <sonar.projectKey>HarimaGoncalves_Damas_Fin</sonar.projectKey>
+  <sonar.organization>harimagoncalves</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
 </project>

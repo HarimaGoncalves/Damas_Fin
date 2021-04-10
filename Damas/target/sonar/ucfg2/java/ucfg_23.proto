@@ -1,0 +1,57 @@
+
+Mdamas.Tabuleiro#d_come(IIIIILdamas/Tabuleiro;Ldamas/Tabuleiro;Ldamas/Score;)Z^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javağ ğ("5"6"19"21"10"1"12*›
+5^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java› ›(¢
+Ÿ
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java (9	
+%0int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+5
+6
+10
+1
+12*Í
+6^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java™ ™( "h
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java™ ™(!
+""*Î
+19^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaù ù("h
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaù ù(
+""*Î
+21^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaö ö("h
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaö ö(
+""*Î
+10^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java ("h
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java (
+""*Î
+12^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaŠ Š("h
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaŠ Š(
+""*Í
+1^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.java¦ ¦("h
+^
+RC:/Users/harim/Documents/GitHub/Damas_Fin/Damas/src/main/java/damas/Tabuleiro.javaª ª(
+"":
+"":
+"":
+"":
+"":
+"":
+
+tabuleiro1damas.Tabuleiro:
+
+tabuleiro2damas.Tabuleiro:
+scoredamas.ScoreB
+damas.Tabuleiro
