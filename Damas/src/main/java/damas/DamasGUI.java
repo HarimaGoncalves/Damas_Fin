@@ -21,8 +21,8 @@
 /*     */   private JPanel contentPane;
 /*     */   Tabuleiro t;
 /*     */   Interface_tabuleiro i;
-/*     */   int x;
-/*     */   int y;
+/*     */
+/*     */
 /*     */   Button b1;
 /*     */   Button b2;
 /*     */   Button b3;
@@ -117,20 +117,20 @@
 /* 117 */     if ("1".equals(arg)) {
 /* 118 */       this.i.level = 5;
 /* 119 */       this.i.repaint();
-/* 120 */       return true;
+/* 120 */
 /*     */     } 
 /*     */     
 /* 123 */     if ("2".equals(arg)) {
 /* 124 */       this.i.level = 6;
 /* 125 */       this.i.repaint();
-/* 126 */       return true;
+/* 126 */
 /*     */     } 
 /*     */     
 /* 129 */     if ("3".equals(arg)) {
 /* 130 */       this.i.level = 7;
 /* 131 */       this.i.repaint();
-/* 132 */       return true;
-/*     */     } 
+/* 132 */
+/*     */     }
 /*     */     
 /* 135 */     if ("Jogar c/ brancas".equals(arg)) {
 /* 136 */       this.i.recomeca(1);
